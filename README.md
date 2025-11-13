@@ -1,6 +1,6 @@
 # Git
 
-# Vad är Git?
+## Vad är Git?
 
 * Git är ett vertyg som sparar olika versioner av kod och hjälper oss att samarbeta med andra
 
