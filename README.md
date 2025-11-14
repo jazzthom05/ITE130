@@ -9,3 +9,6 @@
 * git add . (lägg till filer)
 * git status (se ändringar)
 * git log (se historik) 
+
+### HTML
+(Hyper Texten Markup Language)
